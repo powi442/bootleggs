@@ -32,12 +32,6 @@ hr {
 color: #F99C78;
 }
 
-/* header.startup {
-  background-image: url("tdfarm.jpg");
-  background-size: cover;
-  height: 100%;
-} */
-
 header.startup hr {
   margin-top: 200px;
   margin-bottom: 30px; 
@@ -73,6 +67,7 @@ header.startup h1 {
 }
 img {
   width: 100px;
+  height:auto;
 }
 div {
   text-align: center;
